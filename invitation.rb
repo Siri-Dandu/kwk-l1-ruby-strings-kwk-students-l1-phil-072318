@@ -14,7 +14,7 @@ puts "What is the date?"
 
 date = gets.chomp.capitalize
 
-puts = "Hhat time is the party?"
+puts = "What time is the party?"
 
 time = gets.chomp.capitalize
 
